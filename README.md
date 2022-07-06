@@ -15,4 +15,4 @@ The overall design of the Circuit looks like this :-
 ![Screenshot from 2022-07-06 15-21-03](https://user-images.githubusercontent.com/77680043/177524172-439f3ae2-a14b-4659-9111-15c8207e1138.png)
 
 
-My Approach to Complete the task is given here.
+My Approach to Complete the task is given [here](Approach.pdf).
